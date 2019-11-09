@@ -1,5 +1,5 @@
 # Welcome to my CMP 256 Repository!
-Codes from GUI Design and Programming Lab
+My codes from GUI Design and Programming with Dr. Michel Pasquier
 
 
 <H3>If you are looking for the Clock Code</H3>
