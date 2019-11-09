@@ -7,6 +7,6 @@ My codes from GUI Design and Programming with Dr. Michel Pasquier
 <H5><a href='Clock.jar'>Click here for the Jar File</a></H5>
 
 
-<H3>If you are looking for the Michelangelo</H3> (Paint App from Lab 9)
+<H3>If you are looking for Michelangelo</H3> (Paint App from Lab 9)
 <H5><a href='Lab9.java' download>Click here for the Java File</a></H5>
 <H5><a href='Lab9.jar'>Click here for the Jar File</a></H5>
