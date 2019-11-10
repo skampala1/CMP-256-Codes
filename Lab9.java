@@ -204,7 +204,7 @@ class Frame extends JFrame{
         ellipseButton.addActionListener(new ActionListener(){
             @Override
             public void actionPerformed(ActionEvent e) {
-                draw.selectRectangle();
+                draw.selectEllipse();
                 requestFocusInWindow();
             }
         });
@@ -212,7 +212,7 @@ class Frame extends JFrame{
         rectangleButton.addActionListener(new ActionListener(){
             @Override
             public void actionPerformed(ActionEvent e) {
-                draw.selectEllipse();
+                draw.selectRectangle();
                 requestFocusInWindow();
             }
         });
