@@ -19,3 +19,9 @@ My codes from GUI Design and Programming with Dr. Michel Pasquier
 <H3>If you are looking for Calendar</H3> (from Lab 11)
 <H5><a href='Calendar.zip' download>Click here for the Java File</a></H5>
 <H5><a href='Calendar.jar'>Click here for the Jar File</a></H5>
+
+<H3>If you are looking for Conway's Game of Life</H3> (from Lab 11)
+<H5><a href='GameData.java' download>Click here for Game Model Source Code</a></H5>
+<H5><a href='GameView.java' download>Click here for Game View Source Code</a></H5>
+<H5><a href='GameController.java' download>Click here for Game Controller Source Code</a></H5>
+<H5><a href='Game of Life.jar' download>Click here for the Jar File</a></H5>
